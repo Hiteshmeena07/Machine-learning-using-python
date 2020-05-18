@@ -1,0 +1,36 @@
+Course Outline
+INTRODUCTION TO PYTHON AND BASIC STATISTICS
+
+Course Description
+
+Python is an easy to learn, powerful programming language. You can use Python when your data analysis tasks need to be integrated with web apps or if statistics code needs to be incorporated into a production database. Being a full-fledged programming language, it’s a great tool to implement algorithms for production use.
+
+While the infancy of Python packages for data analysis was an issue in the past, this has improved significantly over the years. In this course, you will learn about NumPy / Pandas (data manipulation) for data analysis and matplotlib (to make graphics). You will also learn about scikit-learn for machine learning in future courses.
+
+ 
+
+Course Content
+
+Installation of Python
+Numpy
+Basics of Numpy array
+Broadcasting an array
+Matrix indexing
+Selection techniques
+Saving and loading arrays
+Pandas
+Series
+Indexing elements of a series
+Dictionaries
+Data frame
+Different ways of indexing in a data frame
+Conditional indexing in a data frame
+Dropna and fillna
+Groupby, merging similar to SQL logic
+Filtering, sorting and indexing
+Loops and functions 
+Saving and loading a csv, excel file
+Case Study
+Tools
+
+Jupyter Notebook.
